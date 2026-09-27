@@ -43,7 +43,6 @@ Bu uygulama herhangi bir özel API anahtarı veya kimlik doğrulama **gerektirme
 - **[Open-Meteo](https://open-meteo.com/):** Açık kaynak ve ücretsiz zirai meteoroloji API'si için teşekkürler.
 - **[OpenStreetMap](https://www.openstreetmap.org/):** Açık harita ve konum arama veri tabanı için teşekkürler.
 - **[Chart.js](https://www.chartjs.org/):** İnteraktif veri görselleştirme kütüphanesi için teşekkürler.
-- **[Public APIs](https://github.com/public-apis/public-apis):** Açık kaynak API ekosistemi için teşekkürler.
 - **[OpenClaw](https://github.com/openclaw/openclaw):** Proje mimarisi ve otonom iş akışı.
 - **[Google Gemini](https://github.com/google-gemini):** Kodlama ve istemci optimizasyonları.
 - **[VoltAgent / awesome-design-md](https://github.com/VoltAgent/awesome-design-md):** Mistral AI Tasarım Sistemi.
